@@ -1,6 +1,6 @@
 # Video Conference Application
 
-<!-- ![alt text](https://github.com/muhammadzohaibr556/[reponame]/blob/[branch]/image.jpg?raw=true) -->
+![alt text](https://github.com/muhammadzohaibr556/django-react-video-conference-app/blob/master/thumbnail-1.png)
 
 It provides user accounts for connecting multiple users.
 <br/>
